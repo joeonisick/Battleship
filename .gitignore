@@ -5,3 +5,8 @@
 /Release2.py
 /Release3.py
 /Testing.py
+/dist
+/build
+/.settings
+/__pycache__
+/test.py
